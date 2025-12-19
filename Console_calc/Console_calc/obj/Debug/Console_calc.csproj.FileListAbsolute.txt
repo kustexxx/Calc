@@ -1,0 +1,8 @@
+D:\vsc\learning\Console_calc\Console_calc\bin\Debug\Console_calc.exe.config
+D:\vsc\learning\Console_calc\Console_calc\bin\Debug\Console_calc.exe
+D:\vsc\learning\Console_calc\Console_calc\bin\Debug\Console_calc.pdb
+D:\vsc\learning\Console_calc\Console_calc\obj\Debug\Console_calc.csproj.AssemblyReference.cache
+D:\vsc\learning\Console_calc\Console_calc\obj\Debug\Console_calc.csproj.CoreCompileInputs.cache
+D:\vsc\learning\Console_calc\Console_calc\obj\Debug\Console_calc.exe
+D:\vsc\learning\Console_calc\Console_calc\obj\Debug\Console_calc.pdb
+D:\vsc\learning\Console_calc\Console_calc\obj\Debug\Console_calc.exe.config
